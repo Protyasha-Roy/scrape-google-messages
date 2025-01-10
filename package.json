@@ -1,0 +1,13 @@
+{
+  "name": "google-messages-scraper",
+  "version": "1.0.0",
+  "description": "A web scraper for Google Messages using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "puppeteer": "^21.6.1"
+  }
+}

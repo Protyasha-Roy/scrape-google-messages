@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+.env
+
+conversations.html
+element.html
+inside.html
+message.html
+text.html
